@@ -6,7 +6,7 @@
 
 Atomic Finance was founded by two students from University of Waterloo in 2019. The co-founders, Tony Cai and Matthew Black, aim to create a sound financial infrastructure that facilitates decentralized and Bitcoin-backed financing. As a Canadian-based FinTech startup, Atomic Finance has risen $2.7 millions mainly from Initialized Capital and ConsenSys by the end of August 2021.
 
-## Backgroud
+## Background
 ----
 The initiative for creating Bitcoin is to provide an alternative for the traditional centralized financial system. The Bitcoin market creates a bankless system where people could transfer money with less fees but more autonomy. However, the financial tools on Bitcoin have became a totally different story. Most of Bitcoin-based lending activities are processed by centralized platforms. These platforms act as crypto banks that request users to deposit their BTC before lending or borrowing, which is the opposite way that Bitcoin originally pursued.
 
