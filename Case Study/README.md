@@ -39,4 +39,6 @@ Fortunately, Tony Cai and Matthew Black decided to stick to the way that Bitcoin
 2.	Crunchbase:  https://www.crunchbase.com/organization/atomic-loans 
 3.	Atomic.Finance: https://atomic.finance/
 4.	Ethereum: https://ethereum.org/en/defi/
+5.  ATOMIC LOANS RAISES $3.4 MILLION CAD AS IT LOOKS TO BRING DECENTRALIZED FINANCE TO BITCOIN MARKET: https://betakit.com/atomic-loans-raises-3-4-million-cad-as-it-looks-to-bring-decentralized-finance-to-bitcoin-market/
+6. The 10 Most Important Cryptocurrencies Other Than Bitcoin: https://www.investopedia.com/tech/most-important-cryptocurrencies-other-than-bitcoin/
 
