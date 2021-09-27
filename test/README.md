@@ -39,7 +39,7 @@ Before you start to build blockchain, please make sure you have the following so
 
     ** Do not share the secret key with others
 
-![Create two nodes](Image/create_two_nodes.png)
+![Create two nodes](Image/create_two_nodes.PNG)
 
 
 ### Step 3: Create a Genesis Block
