@@ -66,7 +66,7 @@ Before you start to build blockchain, please make sure you have the following so
 
    b. Paste them again in the list of accounts to pre-fund. There are no block rewards in PoA, so you'll need to pre-fund
 
-![Seal and pre-fund accounts](Image/seal_prefund_accounts.png)
+![Seal and pre-fund accounts](Image/seal_prefund_accounts.PNG)
 
 8. Entry `no`  for pre-funding the pre-compiled accounts (0x1 .. 0xff) with wei. This keeps the genesis cleaner. Or, you can click enter to continue with the default option
 
@@ -76,7 +76,7 @@ Before you start to build blockchain, please make sure you have the following so
 
 10. New block is created successfully if you see a success message and be redirected to the original prompt:
 
-![Success Message](Image/block_created.png)
+![Success Message](Image/block_created.PNG)
 
 ### Step 4: Export Genesis Configurations
 
@@ -93,7 +93,7 @@ Before you start to build blockchain, please make sure you have the following so
 4. Exit `puppeth` by using the `Ctrl+C` keys combination.
 
 
-![Export genesis configurations](Image/configurations.png)
+![Export genesis configurations](Image/configurations.PNG)
 
 ### Step 5: Initialize Each Node
 
@@ -107,7 +107,7 @@ Before you start to build blockchain, please make sure you have the following so
 
 You shall see the success message:
 
-![Success Message](Image/successful_ini_nodes.png)
+![Success Message](Image/successful_ini_nodes.PNG)
 
 ### Step 6: Start mining
 
@@ -117,7 +117,7 @@ You shall see the success message:
 
 You should see the node Committing new mining work:
 
-![Success Message](Image/node1.png)
+![Success Message](Image/node1.PNG)
 
 2. Open a new Git Bash and navigate to the 'Blockchain' folder
 
@@ -125,7 +125,7 @@ You should see the node Committing new mining work:
 
    `./geth --datadir node2 --unlock "<replace your Node 2 public address>" --mine --port 30304 --bootnodes "enode://<replace with node 1 enode address>" --ipcdisable --allow-insecure-unlock`
 
-![Success Message](Image/node2.png)
+![Success Message](Image/node2.PNG)
 
 ## Part 3: Transact on Your Chain
 ---------
@@ -142,7 +142,7 @@ You should see the node Committing new mining work:
     
     ** The URL must point to the default RPC port on your local machine. Use http://127.0.0.1:8545
 
-![Success Message](Image/add_custom_node.png)
+![Success Message](Image/add_custom_node.PNG)
 
 4. Click `Save & Use Custom Node` button
 
@@ -182,21 +182,21 @@ This test transaction will send ETH from Node 1 to Node 2
    
       Node 1: 
 
-![Success Message](Image/before_node1.png)
+![Success Message](Image/before_node1.PNG)
 
       Note 2:
 
-![Success Message](Image/before_node2.png)
+![Success Message](Image/before_node2.PNG)
 
    b. After sending:
 
       Node 1: 
 
-![Success Message](Image/after_node1.png)
+![Success Message](Image/after_node1.PNG)
 
       Note 2:
 
-![Success Message](Image/after_node2.png)
+![Success Message](Image/after_node2.PNG)
 
 
 
